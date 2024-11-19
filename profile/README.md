@@ -3,7 +3,7 @@
 ### Projektmitglieder
 | Marius Thaler | Raphael Tarnoczi | Timo Enzi | Marcel Turetschek | Nikolaus Redl |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|![marius](https://github.com/user-attachments/assets/958d9f52-b5ff-43b5-b08a-3a5d064817ea)|![raphi](https://github.com/user-attachments/assets/c7976268-a44b-4083-b972-edcc5d8237c6)|![timo](https://github.com/user-attachments/assets/7c4a655a-8b4d-44f1-b461-b5c575f8c355)|![marcel](https://github.com/user-attachments/assets/d242ac77-7f8b-4a08-8c79-8c36dd77f60b)|![niki](https://github.com/user-attachments/assets/8c6219eb-cff4-4c05-b585-de00dbdc38fb)|
+| ![marius](https://github.com/user-attachments/assets/f2e6c013-855b-48a8-9a1f-bdb21531c854) | ![raphi](https://github.com/user-attachments/assets/99a7844a-316d-4eb0-a456-359ad63559e9) | ![timo](https://github.com/user-attachments/assets/f8e4f96c-45fe-4a21-9dd5-dc4bcfd02866) | ![marcel](https://github.com/user-attachments/assets/1124edb5-880c-4d79-b2fe-d9e7c0403c99) | ![niki](https://github.com/user-attachments/assets/16084fab-7725-4cf3-ab6d-57dd380be817) |
 
 
 
